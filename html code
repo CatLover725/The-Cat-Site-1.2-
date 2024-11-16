@@ -1,0 +1,102 @@
+<html>
+    <title>The Cat Site</title>
+    <header>
+      <link rel="stylesheet"
+      href="style.css">
+ <h1>The Cat Site</h1>
+ <p>Hello you are gonna see here a bunch of info about some cat but not every single one</p>
+    </header>
+ <body>
+ <main>    
+<table>
+ <tr>
+  <td class="pinkgreen">Breed</td>  
+  <td class="blueyellow">Up to how much they can live</td>
+  <td class="pinkgreen">Weight</td>
+ </tr> 
+ <tr>
+  <td class="bluegreen">Sphynx</td>
+  <td class="yellowpink">8 to 14 years</td>
+  <td class="bluegreen">4.5-5.4 kg</td>
+ </tr>
+ <tr>
+  <td class="blueyellow">Burmese cat</td>
+  <td class="pinkgreen">10-16 years</td>
+  <td class="blueyellow">2.7-6.4 kg</td>
+ </tr>
+ <tr>
+  <td class="yellowpink">Persian cat</td>
+  <td class="bluegreen">12 to 18 years</td>
+  <td class="yellowpink">3.2-5.4 kg</td>
+ </tr>
+ <tr>
+  <td><img src="https://www.purina.de/sites/default/files/styles/ttt_image_original/public/2024-01/sitesdefaultfilesstylessquare_medium_440x440public2022-06Sphynx.webp?itok=P3q6tFrr"></td>
+  <td><img src="https://www.purina.co.uk/sites/default/files/styles/square_medium_440x440/public/2022-06/Burmese-Cat.jpg?itok=p26MJciw" ></td>
+  <td><img class="size" src="https://azure.wgp-cdn.co.uk/app-yourcat/posts/iStock-174776419-1.jpg?&width=480&height=480&bgcolor=ffffff&mode=crop&format=webp&webp.quality=40&scale=both" ></td>
+ </tr>   
+</table>
+<table>
+ <tr>
+  <td class="yellowpink">Breed</td>
+  <td class="bluegreen">Up to how much they can live</td>     
+  <td class="yellowpink">Weight</td>
+ </tr>
+ <tr>
+  <td class="pinkgreen">American bobtail</td>
+  <td class="blueyellow">13-18 years</td>
+  <td class="pinkgreen">3.2-8.2 kg</td>
+ </tr>
+ <tr>
+  <td class="bluegreen">Devon rex</td>
+  <td class="yellowpink">14 to 17 years, sometimes more</td>
+  <td class="bluegreen">male:3–4 kg female:2–3 kg</td>
+ </tr>
+ <tr>
+  <td class="blueyellow">Australian Mist</td>
+  <td class="pinkgreen">12 to 15 years</td>
+  <td class="blueyellow">4–7 kg</td>
+ </tr>
+ <td><img src="https://cdn.playgrnd.media/v7/img/breeds/brd_2002.jpg?w=480&h=480&fm=jpg"></td>
+ <td><img class="size2" src="https://de.lassie.co/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fr208a72kad0m%2F2uuiZ87dPUcGNCavFNmkLo%2F813afa939b5559f3c3959ce1ef84d072%2FKattraser.png&w=1200&q=75"></td>
+ <td><img src="https://www.purina.de/sites/default/files/styles/ttt_image_original/public/2024-01/sitesdefaultfilesstylessquare_medium_440x440public2022-06Australian-Mist-Cat.webp?itok=OtvTDLar"></td>       
+</table>
+  </main>
+  <footer>
+   <table>
+    <tr>
+     <td class="bluegreen">Breed</td>
+     <td class="yellowpink">Up to how much they can live</td>
+     <td class="bluegreen">Weight</td>   
+    </tr>
+    <tr>
+     <td class="blueyellow">Singapura cat</td>
+     <td class="pinkgreen">11 to 15 years</td>
+     <td class="blueyellow">1.8-3.6 kg</td>   
+    </tr>
+    <tr>
+     <td class="yellowpink">Chartreux cat</td>
+     <td class="bluegreen">11-15 years</td>
+     <td class="yellowpink">male:8 kg female:5-6 kg</td>   
+    </tr>
+    <tr>
+    <td class="pinkgreen">Somali cat</td>
+    <td class="blueyellow">12 to 14 years</td>  
+    <td class="pinkgreen">3-5 kg</td> 
+    </tr>
+    <td><img src="https://www.purina.co.uk/sites/default/files/styles/square_medium_440x440/public/2022-06/Singapura.jpg?itok=azoySJK_" ></td>
+    <td><img class="size3" src="https://www.petfinder.com/static/e1c3494d3107b7f6ed4312c8d77cd8e2/88c64/chartreux-card-large.webp"></td> 
+    <td><img src="https://www.purina.co.uk/sites/default/files/styles/square_medium_440x440/public/2022-06/Somali.jpg?itok=tDNkUIlQ"></td>        
+   </table>  
+  </footer>    
+ </body>
+<h4 class="cursive">Thank you for visiting the site!</h4>
+<h4 class="question">want more cats? go here!</h4>
+  <a class="first" href="https://www.google.com/search?q=cat+breeds&oq=cat+bree&gs_lcrp=EgZjaHJvbWUqDggBEEUYJxg7GIAEGIoFMgYIABBFGDkyDggBEEUYJxg7GIAEGIoFMgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTc4NDVqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8#wgvs=e">cats.</a>
+  <h4 class="question2">also want weight charts?go here!</h4><a class="second" href="https://www.google.com/search?q=cat+weight+chart&sca_esv=8536d3cccb765549&sca_upv=1&udm=2&biw=2560&bih=1313&sxsrf=ADLYWIKYjgye6A8xEFaXMP6GjSHxpVlQ_A%3A1727464407493&ei=1wP3ZobmHazmi-gPsLHA4Ak&oq=cat+weight+c&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGNhdCB3ZWlnaHQgYyoCCAAyBxAAGIAEGBMyBxAAGIAEGBMyBxAAGIAEGBMyBxAAGIAEGBMyBxAAGIAEGBMyBxAAGIAEGBMyBxAAGIAEGBMyBxAAGIAEGBMyBxAAGIAEGBMyBxAAGIAEGBNIgiRQoQxYqxlwAXgAkAEAmAFXoAH0AaoBATO4AQHIAQD4AQGYAgSgAp4CwgIIEAAYExgIGB7CAgQQIxgnmAMAiAYBkgcDMy4xoAfBEg&sclient=gws-wiz-serp"> weight charts</a>
+  <br/>
+  <br/>
+<img class="logos" src="https://lh3.googleusercontent.com/d/1ZlBv-zS1rfgN7KL3bXtN2bNNtwEYtMwc" title="facebook">
+<img class="logos" src="https://lh3.googleusercontent.com/d/12Bl2DjN7Hvc5iq-B6hUgz8zcaCoqLZhW" title="instagram">
+<img class="logos" src="https://lh3.googleusercontent.com/d/1TMDCsoZz7yM0WbzUzAV7gLWRd8kO5eMU" title="telegram">
+<img class="logos" src="https://lh3.googleusercontent.com/d/1tmtnW7Xes1jI0fXtnLKLBFZ3Tp4T7hAb" title="whatsup">
+</html>    
