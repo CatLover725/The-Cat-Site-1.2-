@@ -1,0 +1,103 @@
+.bluegreen{
+    background-color:#CEEDB6;
+    color:#b3d1fe;
+}
+
+.pinkgreen{
+    background-color:#ffa6d4;
+    color:#CEEDB6;
+}
+
+.blueyellow{
+    background-color:#b3d1fe;
+    color:#ffe799;
+}
+
+.yellowpink{
+    background-color:#ffe799;
+    color:#ffa6d4;
+}
+
+table {
+    border:3px solid #e59afe;
+    border-collapse:collapse;
+}
+
+h1 {
+    text-align:center;
+    font-family:cursive;
+    color:#e59afe;
+}
+
+p {
+    size:20px;
+    font-family:fantasy;
+    color:#e59afe;
+}
+
+.cursive{
+    font-family:cursive;
+    color:#e59afe;
+}
+
+.question{
+    color:#CEEDB6;
+    background-color: #ffa6d4;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.question2{
+    color:#ffe799;
+    background-color: #b3d1fe;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+ .first{
+    background-color: #CEEDB6;
+    color: #b3d1fe;
+    font-family: sans-serif;
+    padding: 5px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.second{
+  background-color: #ffe799;
+  color: #ffa6d4;
+  font-family: sans-serif;
+  padding: 5px;
+  border-radius: 10px;
+  text-decoration: none;
+
+}
+
+img{
+  width:150px;
+  height:150px;
+}
+
+.size{
+  width:200px;
+  height:200px;
+}
+
+.size2{
+  width:200px;
+  height:140px;
+}
+
+.size3{
+  width: 210px;
+  height: 100px;
+}
+
+.logos{
+  width: 70px;
+  height: 70px;
+}
+
+body{
+  font-family:sans-serif;
+  background-color:#fff3e6;
+}
